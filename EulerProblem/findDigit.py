@@ -1,3 +1,9 @@
+'''
+You are given an integer N. Find the digits in this number that exactly divide N(division that leaves 0 as remainder) 
+and display their count. 
+For N=24, there are 2 digits − 2 & 4. Both of these digits exactly divide 24. So our answer is 2.
+'''
+
 def solution():
     num = int(raw_input("input1"))
     countList = []
