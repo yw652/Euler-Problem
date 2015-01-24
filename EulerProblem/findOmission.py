@@ -1,3 +1,8 @@
+'''
+User enters an arithmetic progression, with one item omitted, and the length of the input, the
+program tells the omitted item
+'''
+
 import sys
 import numpy as np
 
