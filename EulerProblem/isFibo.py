@@ -1,3 +1,7 @@
+'''
+You are given an integer, N. Write a program to determine if N is an element of the Fibonacci Sequence.
+'''
+
 import sys
 
 def isFibo():
