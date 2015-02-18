@@ -14,6 +14,7 @@ def complement():
         list.append(n % 2)
         n /= 2
     
+    #Reverse the list
     list = list[::-1]
     binary = []
     
